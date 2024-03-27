@@ -1,6 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../../../solwave.dart';
+import '../../../solwave_dart.dart';
 import '../../core/wallet_provider.dart';
 import '../../repository/repository.dart';
 

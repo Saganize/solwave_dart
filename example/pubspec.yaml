@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  solwave:
+  solwave_dart:
     path: ../
 
   # The following adds the Cupertino Icons font to your application.

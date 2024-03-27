@@ -3,7 +3,7 @@ import 'package:flutter_svg/svg.dart';
 import 'button.dart';
 import 'close_button.dart';
 
-import '../../../solwave.dart';
+import '../../../solwave_dart.dart';
 import '../../utils/color_constants.dart';
 import '../../utils/font_style.dart';
 

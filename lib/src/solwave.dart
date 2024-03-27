@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
-import 'package:solwave/solwave.dart';
+import 'package:solwave_dart/solwave_dart.dart';
 
 import 'core/constants.dart';
 import 'core/solwave_view_type.dart';

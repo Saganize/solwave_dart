@@ -42,10 +42,6 @@ class StringConstants {
   static const currentWallet = 'CURRENT_SELECTED_WALLET';
   static const sharedSecretKey = 'SHARED_SECRET_KEY';
   static const connectedWallets = 'CONNECTED_WALLETS';
-
-  /// images
-  static const dollarArrowIcon =
-      'https://firebasestorage.googleapis.com/v0/b/saganize-sample.appspot.com/o/dollar_arrow.svg?alt=media&token=86cd0c5e-f3d5-4151-9a5d-f16061136e71';
 }
 
 String truncateString(String input) {

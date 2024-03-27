@@ -12,7 +12,7 @@ import '../../models/api_request/initiate_sign_message_request.dart';
 import '../../repository/repository.dart';
 import 'package:uni_links/uni_links.dart';
 
-import '../../../solwave.dart';
+import '../../../solwave_dart.dart';
 import '../../core/constants.dart';
 import '../../core/solwave_error.dart';
 import '../../core/wallet_deeplink_handler.dart';

@@ -4,7 +4,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
-import 'package:solwave/solwave.dart';
+import 'package:solwave_dart/solwave_dart.dart';
 
 /// Uncomment this once you intialize firebase
 // import 'firebase_options.dart';

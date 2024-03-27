@@ -10,5 +10,5 @@ export 'package:solana/src/programs/token_program/instruction.dart';
 
 export './src/models/solwave_transaction.dart';
 export './src/models/wallet.dart';
-export './src/solwave.dart';
+export 'src/solwave.dart';
 export './src/utils//helpers.dart';

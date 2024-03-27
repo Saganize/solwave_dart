@@ -4,7 +4,7 @@ import 'package:pinenacl/ed25519.dart';
 import 'package:pinenacl/tweetnacl.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:solana/dto.dart';
-import 'package:solwave/src/repository/repository.dart';
+import 'package:solwave_dart/src/repository/repository.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 List<int> intToBytes(int data, {Endian endian = Endian.little}) {

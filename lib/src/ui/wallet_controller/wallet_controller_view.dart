@@ -1,8 +1,7 @@
-// ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:solwave/src/ui/wallet_sign_message/wallet_sign_message_cubit.dart';
+import 'package:solwave_dart/src/ui/wallet_sign_message/wallet_sign_message_cubit.dart';
 
 import '../../core/solwave_view_type.dart';
 import '../../models/solwave_transaction.dart';

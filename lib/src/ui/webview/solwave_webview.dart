@@ -5,7 +5,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 import '../wallet_sign_message/wallet_sign_message_cubit.dart';
 
-import '../../../solwave.dart';
+import '../../../solwave_dart.dart';
 import '../../core/solwave_error.dart';
 import '../../utils/color_constants.dart';
 import '../wallet_controller/wallet_controller_cubit.dart';
